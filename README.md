@@ -1,4 +1,4 @@
-### Hi there 👋, I'm RaZe 🦥
+# Hi there, I'm `RaZe🦥` The typings guy.
 
 
 - 🔭 I’m currently working on my Discord bot
@@ -6,7 +6,6 @@
 - 📫 How to reach me, Discord: RaZe#2841
 - 😄 Pronouns, he/him
 - ⚡ Fun fact, I really like sloths🦥
-
 
 ### Languages what I use
 
