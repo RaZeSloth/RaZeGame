@@ -12,4 +12,3 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=razesloth&show_icons=true&hide_border=true&theme=tokyonight">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razesloth&hide_border=true&theme=tokyonight">
-
