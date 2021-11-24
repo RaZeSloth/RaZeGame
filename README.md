@@ -11,4 +11,4 @@
 # Stats
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razesloth&hide_border=true&theme=tokyonight">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=razesloth&show_icons=true&hide_border=true&theme=tokyonight">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razesloth&theme=dark&hide_border=true&stroke=7289da">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razesloth&theme=tokyonight&hide_border=true&stroke=7289da">
