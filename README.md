@@ -3,7 +3,7 @@
   
 - 🔭 I’m currently working on my Discord bot
 - 🌱 I’m currently learning: JavaScript, TypeScript, Html, Css
-- 📫 How to reach me, Discord: RaZe#2841
+- 📫 How to reach me, Discord: RaZe#5270
 - 😄 Pronouns, he/him
 - ⚡ Fun fact, I really like sloths🦥
 
