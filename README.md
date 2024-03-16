@@ -1,4 +1,4 @@
-<a href="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/C/Ryo_Yamada_Holding_C_Book.jpg"><img src="assets/Ryo_Yamada_Reading_ArchLinux_Book.jpg"></a>
+<a href="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Linux/Ryo_Yamada_Reading_ArchLinux_Book.jpg"><img src="assets/Ryo_Yamada_Reading_ArchLinux_Book.jpg"></a>
 
 
 # Stats
