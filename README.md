@@ -1,4 +1,4 @@
-<img src ="https://cdn.discordapp.com/attachments/840140272531668992/968380008961818634/cBetterThanTypeScriptFr.png">
+<a href="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/C/Ryo_Yamada_Holding_C_Book.jpg"><img src="assets/Ryo_Yamada_Reading_ArchLinux_Book.jpg"></a>
 
 
 # Stats
@@ -8,4 +8,3 @@
 
 # Discord
 <img src="https://lanyard.cnrad.dev/api/777474453114191882">
-
